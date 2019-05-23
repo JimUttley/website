@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558614394875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "39388BF4",
+    "lastKnownWriteTime" : 1558448234,
+    "last_content_update" : 1558448234,
+    "path" : "~/PersonalWebsite/content/home/talks.md",
+    "project_path" : "content/home/talks.md",
+    "properties" : {
+        "cursorPosition" : "7,11",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

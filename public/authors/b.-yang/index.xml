@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Yang on Dr Jim Uttley</title>
+    <link>/authors/b.-yang/</link>
+    <description>Recent content in B. Yang on Dr Jim Uttley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/b.-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Observing other pedestrians: Investigating the typical distance and duration of fixation</title>
+      <link>/publication/2015-01-01_observing_other_pede/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_observing_other_pede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Davoodian and Raynham</title>
+      <link>/publication/2015-01-01_reply_to_davoodian_a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_reply_to_davoodian_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using eye-tracking to identify pedestrians&#39; critical visual tasks. Part 2. Fixation on pedestrians</title>
+      <link>/publication/2015-01-01_using_eye-tracking_t/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_using_eye-tracking_t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

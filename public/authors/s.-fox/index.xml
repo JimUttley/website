@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Fox on Dr Jim Uttley</title>
+    <link>/authors/s.-fox/</link>
+    <description>Recent content in S. Fox on Dr Jim Uttley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/s.-fox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A whole-year approach showing that ambient light level influences walking and cycling</title>
+      <link>/publication/2019-01-01_a_whole-year_approac/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_a_whole-year_approac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The transition between lit and unlit sections of road and detection of driving hazards after dark</title>
+      <link>/publication/2019-01-01_the_transition_betwe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_the_transition_betwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the nature of visual fixations on other pedestrians</title>
+      <link>/publication/2018-01-01_exploring_the_nature/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_exploring_the_nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of fog on detection of driving hazards after dark</title>
+      <link>/publication/2018-01-01_the_effect_of_fog_on/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_the_effect_of_fog_on/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

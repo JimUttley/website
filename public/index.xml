@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Jim Uttley</title>
+    <link>/</link>
+    <description>Recent content on Dr Jim Uttley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I got into a research career</title>
+      <link>/post/starting-research-career/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/starting-research-career/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a video of me talking about how I got into a career in academic research by doing a PhD. This was recorded during the &lt;a href=&#34;https://digitalmedia.sheffield.ac.uk/channel/Research+Storytelling+-+Tales+From+the+Ivory+Tower/69687711&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Tales from the Ivory Tower&amp;rsquo;&lt;/a&gt; event at the 2015 Festival of the Mind. I looked much younger and slimmer back then&amp;hellip; 😞&lt;/p&gt;
+
+&lt;div style=&#34;max-width:608px&#34;&gt;&lt;div style=&#34;position:relative;padding-bottom:66.118421052632%&#34;&gt;&lt;iframe id=&#34;kaltura_player&#34; src=&#34;https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=0_thgljj1z&amp;flashvars[streamerType]=auto&amp;amp;flashvars[localizationCode]=en&amp;amp;flashvars[leadWithHTML5]=true&amp;amp;flashvars[sideBarContainer.plugin]=true&amp;amp;flashvars[sideBarContainer.position]=left&amp;amp;flashvars[sideBarContainer.clickToClose]=true&amp;amp;flashvars[chapters.plugin]=true&amp;amp;flashvars[chapters.layout]=vertical&amp;amp;flashvars[chapters.thumbnailRotator]=false&amp;amp;flashvars[streamSelector.plugin]=true&amp;amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;amp;flashvars[dualScreen.plugin]=true&amp;amp;&amp;wid=1_rcslqque&#34; width=&#34;608&#34; height=&#34;402&#34; allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=&#34;autoplay *; fullscreen *; encrypted-media *&#34; frameborder=&#34;0&#34; title=&#34;Kaltura Player&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lighting and active travel</title>
+      <link>/project/active-travel-lighting/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/active-travel-lighting/</guid>
+      <description>&lt;p&gt;Active travel (walking, cycling, and increasingly including scooting) has a range of &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0160412011000341&#34; target=&#34;_blank&#34;&gt;health&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0966692306001207&#34; target=&#34;_blank&#34;&gt;environmental&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0140673612607661&#34; target=&#34;_blank&#34;&gt;economic benefits&lt;/a&gt;. It can make us more physically active which is good for many things including our hearts, cardiovascular system, risk of developing cancer, and mental health. By improving our health it can also save money for our health services. If people are walking, cycling and scooting, they are not using motorised vehicles. This helps reduce carbon emissions and improve air quality. By reducing the number of motorised vehicles on the road, active travel can also help reduce the thousands injured and killed on our roads every year. And don&amp;rsquo;t forget that active travel is fun! 😃&lt;/p&gt;
+
+&lt;p&gt;Encouraging people to walk, cycle and scoot should be a priority for all of us. A major factor that can discourage people from walking and cycling, and make walkers and cyclists less safe, is the built environment. Unfortunately our urban infrastructure is &lt;a href=&#34;http://www.transportfornewhomes.org.uk/wp-content/uploads/2018/07/transport-for-new-homes-summary-web.pdf&#34; target=&#34;_blank&#34;&gt;designed for cars&lt;/a&gt; and not people on foot or pedal bikes. I want to understand exactly how the built environment influences our willingness to walk or cycle, and our safety when we do walk or cycle. We can then start to make changes to our towns and cities to make them more friendly places for the active traveller.&lt;/p&gt;
+
+&lt;p&gt;I currently focus on a specific aspect of urban infrastructure and its influence on active travel - road lighting. &lt;a href=&#34;http://www.theitc.org.uk/docs/30.pdf&#34; target=&#34;_blank&#34;&gt;We increasingly live in a 24-hour society&lt;/a&gt; and to maximise the number of people walking and cycling we need to make active travel viable at all times of the day, including when it is dark. My &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0272494417300762&#34; target=&#34;_blank&#34;&gt;previous research&lt;/a&gt; has shown how the number of people choosing to walk or cycle &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/1477153517738306&#34; target=&#34;_blank&#34;&gt;drops significantly when it turns dark&lt;/a&gt;, even after accounting for the time of day and time of year. Road lighting may help overcome this negative impact of darkness and encourage more active travelling. Lighting can help people see hazards and make them feel safer, for example. Lighting may also reduce the likelihood of a pedestrian or cyclist being hit by a vehicle, this is an area I am actively researching.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lighting Research Group</title>
+      <link>/project/external-project/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A whole-year approach showing that ambient light level influences walking and cycling</title>
+      <link>/publication/2019-01-01_a_whole-year_approac/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_a_whole-year_approac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Analysis, Sample Size, and Assessment of Statistical Assumptions—Improving the Evidential Value of Lighting Research</title>
+      <link>/publication/2019-01-01_power_analysis_samp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_power_analysis_samp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of Trichromatic Light Sources to Achieve Tunable Photopic and Mesopic Luminous Efficacy of Radiation</title>
+      <link>/publication/2019-01-01_quantification_of_tr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_quantification_of_tr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road lighting for pedestrians: Effects of luminaire position on the detection of raised and lowered trip hazards</title>
+      <link>/publication/2019-01-01_road_lighting_for_pe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_road_lighting_for_pe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The transition between lit and unlit sections of road and detection of driving hazards after dark</title>
+      <link>/publication/2019-01-01_the_transition_betwe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-01_the_transition_betwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The science of street lights - What makes people feel safe at night</title>
+      <link>/post/science-of-street-lighting/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science-of-street-lighting/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://images.theconversation.com/files/238453/original/file-20180928-48665-t9jak5.jpg?ixlib=rb-1.1.0&amp;rect=0%2C146%2C5173%2C3483&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip&#34; alt=&#34;File 20180928 48665 t9jak5.jpg?ixlib=rb 1.1&#34; /&gt;
+      &lt;figcaption&gt;
+        Comforting or creepy?
+        &lt;span class=&#34;attribution&#34;&gt;&lt;a class=&#34;source&#34; href=&#34;https://www.shutterstock.com/image-photo/empty-night-street-on-small-village-1017713293?src=ydyzePvylZq952R76kXVNQ-1-10&#34;&gt;Shutterstock.&lt;/a&gt;&lt;/span&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;https://theconversation.com/profiles/jim-uttley-338340&#34;&gt;Jim Uttley&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-leeds-1122&#34;&gt;University of Leeds&lt;/a&gt;&lt;/em&gt;; &lt;a href=&#34;https://theconversation.com/profiles/aleksandra-liachenko-monteiro-561918&#34;&gt;Aleksandra Liachenko Monteiro&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;, and &lt;a href=&#34;https://theconversation.com/profiles/steve-fotios-561196&#34;&gt;Steve Fotios&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Winter is coming: the nights are drawing in and in the Northern Hemisphere the hours of darkness already outnumber the hours of daylight. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0272494417300762&#34;&gt;Research&lt;/a&gt; has shown that darkness produces a big fall in the &lt;a href=&#34;https://theconversation.com/vanishing-act-why-pedestrians-and-cyclists-disappear-when-it-starts-getting-dark-84938&#34;&gt;number of people out walking&lt;/a&gt; – and a major reason for this is that people feel less safe walking in the dark. &lt;/p&gt;
+
+&lt;p&gt;There may be an &lt;a href=&#34;https://www.sciencealert.com/here-s-the-evolutionary-reason-why-we-re-afraid-of-the-dark&#34;&gt;evolutionary explanation&lt;/a&gt; for why people feel less safe at night – we can’t see as well, and this may have exposed our ancestors to greater threat from predators. Nowadays, it’s not so much the prospect of being eaten by a savage beast that concerns would-be pedestrians, but the fear of being mugged or victimised. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://luxreview.com/article/2018/03/major-study-finds-lighting-cut-crime-by-39-&#34;&gt;Some studies suggest&lt;/a&gt; that new outdoor lighting can reduce crime rates in an area, but there is conflicting evidence on this. A &lt;a href=&#34;https://campbellcollaboration.org/library/effects-of-improved-street-lighting-on-crime&#34;&gt;large review of research&lt;/a&gt; found a link between new lighting and reduced crime rates, but improvements were seen in daylight as well as darkness, suggesting that street lighting is not the only factor. This review has also been &lt;a href=&#34;https://www.jstor.org/stable/23639132?seq=1#page_scan_tab_contents&#34;&gt;criticised by other researchers&lt;/a&gt;, and a large statistical analysis &lt;a href=&#34;https://www.theguardian.com/society/2015/jul/29/turning-off-street-lights-does-not-lead-to-more-or-accidents-study&#34;&gt;found no link&lt;/a&gt; between crime rates and switching off or dimming street lighting at night.&lt;/p&gt;
+
+&lt;figure class=&#34;align-center &#34;&gt;
+            &lt;img alt=&#34;&#34; src=&#34;https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;fit=clip&#34; srcset=&#34;https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=319&amp;amp;fit=crop&amp;amp;dpr=1 600w, https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=319&amp;amp;fit=crop&amp;amp;dpr=2 1200w, https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=319&amp;amp;fit=crop&amp;amp;dpr=3 1800w, https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=401&amp;amp;fit=crop&amp;amp;dpr=1 754w, https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=401&amp;amp;fit=crop&amp;amp;dpr=2 1508w, https://images.theconversation.com/files/238455/original/file-20180928-48647-o9ws3b.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=401&amp;amp;fit=crop&amp;amp;dpr=3 2262w&#34; sizes=&#34;(min-width: 1466px) 754px, (max-width: 599px) 100vw, (min-width: 600px) 600px, 237px&#34;&gt;
+            &lt;figcaption&gt;
+              &lt;span class=&#34;caption&#34;&gt;Alight at night.&lt;/span&gt;
+              &lt;span class=&#34;attribution&#34;&gt;&lt;a class=&#34;source&#34; href=&#34;https://www.shutterstock.com/image-photo/terraced-houses-night-time-on-portland-119742640?src=7SKQey3hVtbWwpdvEmqlog-1-11&#34;&gt;Shutterstock.&lt;/a&gt;&lt;/span&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+
+&lt;p&gt;Street lights may or may not have an effect on crime, but one thing’s for sure – brighter levels of light do &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/15502724.2016.1169931&#34;&gt;make people feel safer&lt;/a&gt; when walking at night. This can lead to &lt;a href=&#34;https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-016-0343-4&#34;&gt;a significant increase&lt;/a&gt; in the number of minutes people spend walking each week. It can also reduce the number of people who avoid leaving their homes at night, reduce social isolation, improve physical and mental well-being and &lt;a href=&#34;http://webarchive.nationalarchives.gov.uk/20110118185910/http:/www.cabe.org.uk/files/what-home-buyers-want.pdf&#34;&gt;increase community pride&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Street lighting can improve the quality of neighbourhood life by making people feel safer – but, even so, it would be unwise to flood our streets with light at night. Street lighting costs money: the UK’s annual bill is &lt;a href=&#34;http://luxreview.com/article/2015/08/what-if-all-the-uk-s-streetlights-were-upgraded-with-leds-&#34;&gt;estimated at around £220m&lt;/a&gt;. Artificial light at night may also have a negative impact on wildlife and the natural world, for example by &lt;a href=&#34;https://www.independent.co.uk/environment/toads-frogs-amphibians-lights-slow-growth-extinction-night-case-western-reserve-university-a8429511.html&#34;&gt;stunting the growth&lt;/a&gt; of frogs and toads and preventing them from laying their eggs. &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;
+  &lt;em&gt;
+    &lt;strong&gt;
+      Read more:
+      &lt;a href=&#34;http://theconversation.com/fatal-attraction-how-street-lights-prevent-moths-from-pollinating-60331&#34;&gt;Fatal attraction: how street lights prevent moths from pollinating&lt;/a&gt;
+    &lt;/strong&gt;
+  &lt;/em&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;p&gt;The skyglow from street lights also means we rarely get to see the true wonder of the night sky, &lt;a href=&#34;https://www.bbc.co.uk/news/uk-wales-mid-wales-39686737&#34;&gt;frustrating astronomers&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0272494418302913&#34;&gt;limiting our appreciation&lt;/a&gt; of the natural environment. For these reasons, lighting should be used selectively and efficiently – and this requires good guidance to help those responsible for installing and maintaining our street lighting.&lt;/p&gt;
+
+&lt;p&gt;The guidelines for street lighting in the UK and many other countries are currently based on &lt;a href=&#34;http://journals.sagepub.com/doi/abs/10.1177/1477153517739055&#34;&gt;questionable evidence&lt;/a&gt;. That’s why our &lt;a href=&#34;http://www.lightingresearch.group.shef.ac.uk/&#34;&gt;lighting research group&lt;/a&gt; at the University of Sheffield undertook a programme of research to find out how lighting relates to feelings of reassurance after dark, and improve the evidence on which lighting guidelines are based. &lt;/p&gt;
+
+&lt;h2&gt;Illuminating evidence&lt;/h2&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://journals.sagepub.com/doi/full/10.1177/1477153518775464&#34;&gt;one recent experiment&lt;/a&gt;, we asked people to walk along a number of streets in the city of Sheffield at night and rate how safe they felt. We also asked these people to walk and rate the streets in the day, to create a baseline measure of safety and to &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/15502724.2016.1169931&#34;&gt;account for biases&lt;/a&gt; that may occur if safety ratings were taken only after dark.&lt;/p&gt;
+
+&lt;figure class=&#34;align-center &#34;&gt;
+            &lt;img alt=&#34;&#34; src=&#34;https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;fit=clip&#34; srcset=&#34;https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=399&amp;amp;fit=crop&amp;amp;dpr=1 600w, https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=399&amp;amp;fit=crop&amp;amp;dpr=2 1200w, https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=399&amp;amp;fit=crop&amp;amp;dpr=3 1800w, https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=501&amp;amp;fit=crop&amp;amp;dpr=1 754w, https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=501&amp;amp;fit=crop&amp;amp;dpr=2 1508w, https://images.theconversation.com/files/238451/original/file-20180928-48662-19vdyob.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=501&amp;amp;fit=crop&amp;amp;dpr=3 2262w&#34; sizes=&#34;(min-width: 1466px) 754px, (max-width: 599px) 100vw, (min-width: 600px) 600px, 237px&#34;&gt;
+            &lt;figcaption&gt;
+              &lt;span class=&#34;caption&#34;&gt;Would you feel safe?&lt;/span&gt;
+              &lt;span class=&#34;attribution&#34;&gt;&lt;a class=&#34;source&#34; href=&#34;https://www.shutterstock.com/image-photo/street-65466331?src=leR5Gmum_FEWZymyjtvPbg-4-68&#34;&gt;Shutterstock.&lt;/a&gt;&lt;/span&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+
+&lt;p&gt;The difference in safety ratings between the day and night walks told us something about the lighting on that street – the smaller the difference between day and dark ratings, the safer people felt due to the lighting. We compared our participants’ different ratings against measures of the lighting on each street, including the average illuminance (amount of light falling on the street surface) and uniformity (how evenly spread out the lighting was). &lt;/p&gt;
+
+&lt;p&gt;Today, average illuminance is the main measure used when installing and evaluating street lighting. But we found that, while increasing average illuminance was linked with improved feelings of safety, uniformity was more important for making people feel safe. So it might be more important to have evenly distributed lighting, rather than bright lighting, to make people feel safer. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.northyorks.gov.uk/news/article/led-streetlights-given-go-ahead&#34;&gt;Local&lt;/a&gt; &lt;a href=&#34;https://www.buckscc.gov.uk/news/4500-old-style-street-lights-to-be-replaced/&#34;&gt;authorities&lt;/a&gt; are undergoing major changes to their lighting, as they replace the traditional orange sodium lamps with new LED lighting. These new LEDs are more energy efficient, which saves taxpayers’ money. They also give councils &lt;a href=&#34;http://luxreview.com/article/2015/04/how-leds-could-make-wellington-streets-safer&#34;&gt;greater control&lt;/a&gt; over the lighting they provide, for example by dimming and switching off when there are no pedestrians about. &lt;/p&gt;
+
+&lt;p&gt;Used properly, street lights can improve people’s lives and help neighbourhoods come alive at night. But there’s still a lot to discover about how people respond to street lighting and the impacts it has on society and the environment – experiments such as these can help to light the way.&lt;!-- Below is The Conversation&#39;s page counter tag. Please DO NOT REMOVE. --&gt;&lt;img src=&#34;https://counter.theconversation.com/content/103805/count.gif?distributor=republish-lightbox-basic&#34; alt=&#34;The Conversation&#34; width=&#34;1&#34; height=&#34;1&#34; style=&#34;border: none !important; box-shadow: none !important; margin: 0 !important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0 !important; text-shadow: none !important&#34; /&gt;&lt;!-- End of code. If you don&#39;t see any code above, please get new code from the Advanced tab after you click the republish button. The page counter does not collect any personal data. More info: http://theconversation.com/republishing-guidelines --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;https://theconversation.com/profiles/jim-uttley-338340&#34;&gt;Jim Uttley&lt;/a&gt;, Lecturer, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;; &lt;a href=&#34;https://theconversation.com/profiles/aleksandra-liachenko-monteiro-561918&#34;&gt;Aleksandra Liachenko Monteiro&lt;/a&gt;, PhD Candidate, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;, and &lt;a href=&#34;https://theconversation.com/profiles/steve-fotios-561196&#34;&gt;Steve Fotios&lt;/a&gt;, Professor of Lighting and Visual Perception, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is republished from &lt;a href=&#34;http://theconversation.com&#34;&gt;The Conversation&lt;/a&gt; under a Creative Commons license. Read the &lt;a href=&#34;https://theconversation.com/the-science-of-street-lights-what-makes-people-feel-safe-at-night-103805&#34;&gt;original article&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Road brightness and cycling rates after-dark</title>
+      <link>/talk/cyc-society-2018/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/cyc-society-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of pedestrian reassurance gained by higher illuminances in residential streets using the day–dark approach</title>
+      <link>/publication/2018-01-01_evaluation_of_pedest/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_evaluation_of_pedest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the nature of visual fixations on other pedestrians</title>
+      <link>/publication/2018-01-01_exploring_the_nature/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_exploring_the_nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye-tracking in the real world: Insights about the urban environment</title>
+      <link>/publication/2018-01-01_eye-tracking_in_the_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_eye-tracking_in_the_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illuminance reconstruction of road lighting in urban areas for efficient and healthy lighting performance evaluation</title>
+      <link>/publication/2018-01-01_illuminance_reconstr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_illuminance_reconstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illuminance required to detect a pavement obstacle of critical size</title>
+      <link>/publication/2018-01-01_illuminance_required/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_illuminance_required/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of fog on detection of driving hazards after dark</title>
+      <link>/publication/2018-01-01_the_effect_of_fog_on/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_the_effect_of_fog_on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanishing act - why pedestrians and cyclists disappear when it starts getting dark</title>
+      <link>/post/vanishing-act/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vanishing-act/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://images.theconversation.com/files/191378/original/file-20171023-1695-1ubql06.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip&#34; alt=&#34;File 20171023 1695 1ubql06.jpg?ixlib=rb 1.1&#34; /&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;https://theconversation.com/profiles/jim-uttley-338340&#34;&gt;Jim Uttley&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Picture the scene: it is 5:30pm on a Tuesday at the end of October and the streets are full of people walking and cycling home from work. The following week, at the same time, the number of walkers and cyclists has dropped by almost half. The only difference is the clocks have moved back one hour to mark the beginning of Daylight Saving Time.&lt;/p&gt;
+
+&lt;p&gt;Naturally, the number of people walking or cycling varies greatly at different times during the day. But twice every year, when the clocks change, researchers like myself get a rare opportunity to compare numbers of pedestrians and cyclists in the same hour of the day, but under different lighting conditions. This enables us to measure the impact that darkness has on how people choose to get around, while other influential factors such as the reason for travelling or the temperature remain largely unchanged.&lt;/p&gt;
+
+&lt;p&gt;Using &lt;a href=&#34;http://www.bikearlington.com/counter-data/&#34;&gt;open-source data&lt;/a&gt; from automated pedestrian and cyclist counters in a United States district, &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0272494417300762&#34;&gt;my colleagues and I analysed&lt;/a&gt; the number of pedestrians and cyclists in the same hour of the day, over a two-week period, both before and after the clocks changed. &lt;/p&gt;
+
+&lt;p&gt;Darkness effectively reduced the volume of pedestrians by 38% and the volume of cyclists by 27%, after taking into account any changes unrelated to light conditions. &lt;/p&gt;
+
+&lt;h2&gt;Night and day&lt;/h2&gt;
+
+&lt;p&gt;There are a number of reasons why people might prefer not to walk or cycle after dark. It’s more difficult to see the path when it’s dark and harder to spot potential trip hazards. Pedestrians &lt;a href=&#34;http://journals.sagepub.com/doi/full/10.1177/1477153514522472&#34;&gt;have to spend&lt;/a&gt; more time looking down and are also &lt;a href=&#34;http://journals.sagepub.com/doi/abs/10.1177/1477153515602954&#34;&gt;less likely to be able to detect&lt;/a&gt; obstacles.&lt;/p&gt;
+
+&lt;p&gt;Darkness also makes it more difficult for walkers and cyclists to be seen by other road users. As a result, pedestrians are &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0001457517303202&#34;&gt;1.7 times more likely&lt;/a&gt; to be hit by a vehicle while using a pedestrian crossing at night, compared with during the day.&lt;/p&gt;
+
+&lt;figure class=&#34;align-center &#34;&gt;
+            &lt;img alt=&#34;&#34; src=&#34;https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;fit=clip&#34; srcset=&#34;https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=302&amp;amp;fit=crop&amp;amp;dpr=1 600w, https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=302&amp;amp;fit=crop&amp;amp;dpr=2 1200w, https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=302&amp;amp;fit=crop&amp;amp;dpr=3 1800w, https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=379&amp;amp;fit=crop&amp;amp;dpr=1 754w, https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=379&amp;amp;fit=crop&amp;amp;dpr=2 1508w, https://images.theconversation.com/files/191057/original/file-20171019-1045-kwdh3p.png?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=379&amp;amp;fit=crop&amp;amp;dpr=3 2262w&#34; sizes=&#34;(min-width: 1466px) 754px, (max-width: 599px) 100vw, (min-width: 600px) 600px, 237px&#34;&gt;
+            &lt;figcaption&gt;
+              &lt;span class=&#34;caption&#34;&gt;Example pedestrian crossing in daylight (left) and after-dark (right)&lt;/span&gt;
+              
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+
+&lt;p&gt;Another reason people may not choose to walk or cycle when it is dark is because they feel less safe. &lt;a href=&#34;http://journals.sagepub.com/doi/pdf/10.1177/0013916592241002&#34;&gt;One theory&lt;/a&gt; suggests that people assess the safety of an environment based on three things: the ability to see clearly for a distance, the presence of features which could conceal a threat and the potential to escape from the area. Therefore, most places are likely to feel less safe at night, because we cannot see as well in the dark.&lt;/p&gt;
+
+&lt;h2&gt;Fighting the darkness&lt;/h2&gt;
+
+&lt;p&gt;Ideally, people should be encouraged to walk or cycle, even when it turns dark, because of the huge potential &lt;a href=&#34;https://theconversation.com/cycling-to-work-major-new-study-suggests-health-benefits-are-staggering-76292&#34;&gt;health&lt;/a&gt; and &lt;a href=&#34;http://trrjournalonline.trb.org/doi/abs/10.3141/2531-15&#34;&gt;environmental&lt;/a&gt; benefits. Of course, networks of public street lights have been combating darkness in cities since the 19th century, following the discovery of coal-gas as an illuminant by Scottish engineer &lt;a href=&#34;http://scienceonstreets.phys.strath.ac.uk/new/William_Murdoch.html&#34;&gt;William Murdoch&lt;/a&gt;. Smoking his pipe beside a fire one night, Murdoch decided to put coal dust in the pipe and put it in the fire. The bright flame that emerged from the mouthpiece prompted the revelation of using gas as a light source.&lt;/p&gt;
+
+&lt;figure class=&#34;align-left &#34;&gt;
+            &lt;img alt=&#34;&#34; src=&#34;https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=237&amp;amp;fit=clip&#34; srcset=&#34;https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=843&amp;amp;fit=crop&amp;amp;dpr=1 600w, https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=843&amp;amp;fit=crop&amp;amp;dpr=2 1200w, https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=843&amp;amp;fit=crop&amp;amp;dpr=3 1800w, https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=1059&amp;amp;fit=crop&amp;amp;dpr=1 754w, https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=1059&amp;amp;fit=crop&amp;amp;dpr=2 1508w, https://images.theconversation.com/files/191287/original/file-20171022-13961-xg0jte.jpg?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=1059&amp;amp;fit=crop&amp;amp;dpr=3 2262w&#34; sizes=&#34;(min-width: 1466px) 754px, (max-width: 599px) 100vw, (min-width: 600px) 600px, 237px&#34;&gt;
+            &lt;figcaption&gt;
+              &lt;span class=&#34;caption&#34;&gt;William Murdoch, pioneer of street gas-lighting.&lt;/span&gt;
+              &lt;span class=&#34;attribution&#34;&gt;&lt;span class=&#34;source&#34;&gt;Wikimedia Commons&lt;/span&gt;&lt;/span&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+
+&lt;p&gt;But it’s increasingly important to use street lighting effectively to avoid wasting energy and creating needless light pollution, which can have &lt;a href=&#34;https://theconversation.com/light-pollution-is-bad-for-humans-but-may-be-even-worse-for-animals-31144&#34;&gt;negative effects on plants and animals&lt;/a&gt;. To that end, lots of research has been carried out to pinpoint the perfect level of lighting, which still enables pedestrians and cyclists to see effectively without wasting any energy. &lt;/p&gt;
+
+&lt;p&gt;Current guidelines for street lighting recommend average light levels of two to 15 lux, depending on the type of street. The evidence supporting these guidelines may be &lt;a href=&#34;http://journals.sagepub.com/doi/full/10.1177/1477153511432678&#34;&gt;flawed&lt;/a&gt; however. The 2.5 GWh of energy used by street lighting every year may therefore be misplaced.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://journals.sagepub.com/doi/abs/10.1177/1477153515602954&#34;&gt;Laboratory research&lt;/a&gt; has been conducted to measure the impact of light spectrum and intensity on a pedestrian’s ability to detect a trip hazard. The study found that people are able to perceive a hazard with just two lux of illuminance. When the light was brighter than this, people did not get any better at detecting hazards. &lt;/p&gt;
+
+&lt;p&gt;The research also found that white light can be used at lower intensities, without affecting pedestrians’ visual performance. Similar results were found for &lt;a href=&#34;http://journals.sagepub.com/doi/abs/10.1177/1477153515625103&#34;&gt;cyclists’ ability to detect hazards&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&#34;align-center &#34;&gt;
+            &lt;img alt=&#34;&#34; src=&#34;https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;fit=clip&#34; srcset=&#34;https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=450&amp;amp;fit=crop&amp;amp;dpr=1 600w, https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=450&amp;amp;fit=crop&amp;amp;dpr=2 1200w, https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=600&amp;amp;h=450&amp;amp;fit=crop&amp;amp;dpr=3 1800w, https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=566&amp;amp;fit=crop&amp;amp;dpr=1 754w, https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=30&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=566&amp;amp;fit=crop&amp;amp;dpr=2 1508w, https://images.theconversation.com/files/191059/original/file-20171019-1045-toezen.JPG?ixlib=rb-1.1.0&amp;amp;q=15&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=566&amp;amp;fit=crop&amp;amp;dpr=3 2262w&#34; sizes=&#34;(min-width: 1466px) 754px, (max-width: 599px) 100vw, (min-width: 600px) 600px, 237px&#34;&gt;
+            &lt;figcaption&gt;
+              &lt;span class=&#34;caption&#34;&gt;Experimental apparatus to assess effect of lighting on cyclists’ detection of a hazard in the road (Fotios, Qasem, Cheal &amp;amp; Uttley, 2017).&lt;/span&gt;
+              
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+
+&lt;p&gt;Building on work carried out in the &lt;a href=&#34;http://journals.sagepub.com/doi/abs/10.1177/096032710003200205&#34;&gt;US at the end of the 1990s&lt;/a&gt;, our team at Sheffield University is also trying to identify lighting conditions which help people feel safe on the streets at night. The US research, carried out in parking lots, found that people felt safer when lights were brighter but that the benefits did not increase correspondingly as brightness increased.  We are now verifying these findings on residential streets.&lt;/p&gt;
+
+&lt;p&gt;The change of the clocks this weekend – and the earlier onset of darkness – serves as a reminder of how significant daylight is to people’s everyday behaviour, particularly the way they choose to travel. Lighting can help us continue our day-to-day lives even when the sun goes down – and in this new age of highly controllable and efficient LED lighting it is tempting to assume “the more light the better”. &lt;/p&gt;
+
+&lt;p&gt;Identifying lighting conditions that meet our requirements without being excessive can help us save energy, reduce carbon emissions, reduce the ecological impact of our lighting and even &lt;a href=&#34;https://www.insidescience.org/news/astronomers-encourage-cities-shield-outdoor-lighting&#34;&gt;make astronomers happier&lt;/a&gt;.&lt;!-- Below is The Conversation&#39;s page counter tag. Please DO NOT REMOVE. --&gt;&lt;img src=&#34;https://counter.theconversation.com/content/84938/count.gif?distributor=republish-lightbox-basic&#34; alt=&#34;The Conversation&#34; width=&#34;1&#34; height=&#34;1&#34; style=&#34;border: none !important; box-shadow: none !important; margin: 0 !important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0 !important; text-shadow: none !important&#34; /&gt;&lt;!-- End of code. If you don&#39;t see any code above, please get new code from the Advanced tab after you click the republish button. The page counter does not collect any personal data. More info: http://theconversation.com/republishing-guidelines --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;https://theconversation.com/profiles/jim-uttley-338340&#34;&gt;Jim Uttley&lt;/a&gt;, Postdoctoral Researcher in Lighting and Environmental Psychology, &lt;em&gt;&lt;a href=&#34;http://theconversation.com/institutions/university-of-sheffield-1147&#34;&gt;University of Sheffield&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is republished from &lt;a href=&#34;http://theconversation.com&#34;&gt;The Conversation&lt;/a&gt; under a Creative Commons license. Read the &lt;a href=&#34;https://theconversation.com/vanishing-act-why-pedestrians-and-cyclists-disappear-when-it-starts-getting-dark-84938&#34;&gt;original article&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A pilot study of road lighting, cycle lighting and obstacle detection</title>
+      <link>/publication/2017-01-01_a_pilot_study_of_roa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_a_pilot_study_of_roa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of illuminance and spectrum on peripheral obstacle detection by pedestrians</title>
+      <link>/publication/2017-01-01_effect_of_illuminanc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_effect_of_illuminanc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of ambient light condition on road traffic collisions involving pedestrians on pedestrian crossings</title>
+      <link>/publication/2017-01-01_the_effect_of_ambien/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_the_effect_of_ambien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the daylight savings clock change to show ambient light conditions significantly influence active travel</title>
+      <link>/publication/2017-01-01_using_the_daylight_s/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_using_the_daylight_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obstacle detection by pedestrians</title>
+      <link>/project/obstacle-detection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/obstacle-detection/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User control in buildings</title>
+      <link>/project/user-control-buildings/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/user-control-buildings/</guid>
+      <description>&lt;p&gt;TEST TEST TEST&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual behaviour of pedestrians and cyclists</title>
+      <link>/project/visual-behaviour/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/visual-behaviour/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cycling promotion schemes and long-term behavioural change: A case study from the University of Sheffield</title>
+      <link>/publication/2016-01-01_cycling_promotion_sc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_cycling_promotion_sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintaining foveal fixation during a peripheral detection task</title>
+      <link>/publication/2016-01-01_maintaining_foveal_f/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_maintaining_foveal_f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing other pedestrians: Investigating the typical distance and duration of fixation</title>
+      <link>/publication/2015-01-01_observing_other_pede/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_observing_other_pede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Davoodian and Raynham</title>
+      <link>/publication/2015-01-01_reply_to_davoodian_a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_reply_to_davoodian_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using eye-tracking to identify pedestrians&#39; critical visual tasks. Part 2. Fixation on pedestrians</title>
+      <link>/publication/2015-01-01_using_eye-tracking_t/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_using_eye-tracking_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satisfaction and illuminances set with user-controlled lighting</title>
+      <link>/publication/2013-01-01_satisfaction_and_ill/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-01-01_satisfaction_and_ill/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+{
+    "path" : "~/PersonalWebsite/content/project",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

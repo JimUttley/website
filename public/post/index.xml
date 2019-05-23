@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog posts on Dr Jim Uttley</title>
+    <link>/post/</link>
+    <description>Recent content in Blog posts on Dr Jim Uttley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I got into a research career</title>
+      <link>/post/starting-research-career/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/starting-research-career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The science of street lights - What makes people feel safe at night</title>
+      <link>/post/science-of-street-lighting/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science-of-street-lighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanishing act - why pedestrians and cyclists disappear when it starts getting dark</title>
+      <link>/post/vanishing-act/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vanishing-act/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

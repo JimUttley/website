@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Jim Uttley</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Dr Jim Uttley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am an Environmental Psychologist in the School of Architecture, University of Sheffield. I am interested in the interaction between people and the built environment. I am particularly keen on understanding how we can promote walking and cycling and make these safer modes of travel. Current and past work focuses on the influence of lighting on perception and behaviour in the built environment. I use a range of methods in my research, including psychophysics experiments, behavioural field studies, and analyses of &amp;lsquo;big data&amp;rsquo; related to behaviour.</description>
+    </item>
+    
+  </channel>
+</rss>
