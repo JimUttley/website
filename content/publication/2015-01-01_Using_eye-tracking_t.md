@@ -1,5 +1,5 @@
 +++
-title = "Using eye-tracking to identify pedestrians' critical visual tasks. Part 2. Fixation on pedestrians"
+title = "Using Eye-tracking to identify pedestrians' critical visual tasks. Part 2. Fixation on pedestrians"
 date = "2015-01-01"
 authors = ["S. Fotios", "J. Uttley", "B. Yang"]
 publication_types = ["2"]
