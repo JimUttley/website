@@ -5,11 +5,7 @@ image:
   caption: Me, looking silly wearing an eye-tracker
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+slides:
 summary: 
 tags:
 - 
