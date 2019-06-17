@@ -16,7 +16,7 @@ event: CIE 29th Session
 event_url: 
 featured: false
 tags: []
-location: Bristol, United Kingdom
+location: Washington DC, USA
 math: true
 share: false
 publishDate: "2019-06-17"
