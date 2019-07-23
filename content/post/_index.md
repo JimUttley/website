@@ -4,4 +4,5 @@ header:
   image: ""
 title: Blog posts
 view: 4
+order: "asc"
 ---
