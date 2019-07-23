@@ -1,7 +1,7 @@
 ---
 title: How I got into a research career
 author: Jim Uttley
-date: '2019-05-23'
+date: '23-05-2019'
 slug: starting-research-career
 summary: " "
 categories: []
