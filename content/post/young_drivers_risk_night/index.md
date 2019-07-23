@@ -48,7 +48,7 @@ The proposal apparently being considered by the Government refers to driving at 
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
   <caption><strong>Table 1.</strong> Proportion of RTCs in daylight and dark conditions by age group of driver, for all RTCs between 2015 and 2017.</caption>
   <tr>
@@ -71,6 +71,7 @@ The proposal apparently being considered by the Government refers to driving at 
     <td class="tg-c3ow">24%</td>
   </tr>
 </table>
+</style>
 
 <br />
 
