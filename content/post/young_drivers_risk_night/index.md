@@ -27,7 +27,7 @@ Comparing the number of RTCs by driver age group against the number of licence h
 <figure>
   <img src="RTC_rate_by_age.jpeg" id="fig1" />
   <figcaption>
-  Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, <a href="https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data">DfT table D0101</a>
+    <strong>Figure 1.</strong> Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, <a href="https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data">DfT table D0101</a>
   </figcaption>
 </figure>
 
