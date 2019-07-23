@@ -3,6 +3,6 @@ header:
   caption: ""
   image: ""
 title: Blog posts
-view: 4
-order: "asc"
+view: 2
+order: "desc"
 ---
