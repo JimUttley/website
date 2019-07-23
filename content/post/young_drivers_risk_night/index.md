@@ -33,7 +33,7 @@ Comparing the number of RTCs by driver age group against the number of licence h
 
 To look at driving risk by age I have split the age of drivers into two categories - younger drivers (aged under 25), who also represent new drivers, and older drivers (aged 25+). Figure 2 shows the temporal distribution of RTCs for young and older drivers across a 24 hour day. The RTC hourly frequencies have been calculated as a proportion of the maximum hourly frequency, which for both age groups is 17:00-17:59. The plot shows an RTC involving a young driver is more likely to happen later at night or early morning, compared with those involving an older driver. On the face of it, this seems to suggest young drivers are at greater risk when driving in the late hours compared with older drivers. 
 
-{{< figure src="Hourly_RTC_by_age_groups.jpeg" title="Hourly counts of RTCs by age group of driver, as a proportion of the maximum hourly count." numbered="true" >}}
+{{< figure src="Hourly_RTC_age_groups.jpeg" title="Hourly counts of RTCs by age group of driver, as a proportion of the maximum hourly count." numbered="true" >}}
 <br />
 <br />
 
@@ -86,16 +86,6 @@ I used 18:00-18:59 as my ‘Case’ hour. I filtered the RTC records from STATS1
 
 Table 2 shows the counts of RTCs by their ambient light condition and the age group of the driver. Using these counts and Equation 1, the odds ratio of young drivers crashing after-dark versus daylight, compared with older drivers, is 0.94 (95% confidence interval = 0.91-0.97).
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-kiyi{font-weight:bold;border-color:inherit;text-align:left}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <caption><strong>Table 2.</strong> RTC counts 2015-2017 during the Case hour of 18:00-18:59, by age group of driver and whether RTC occurred in daylight or darkness (defined as before or after sunset).</caption>
   <colgroup>
@@ -141,16 +131,7 @@ In this analysis I have used young drivers as a proxy definition for new drivers
 Ok, but let’s assume the odds ratio we calculated above is being confounded by drivers in their early and mid-twenties, who fall into my ‘young’ age group of drivers but who may have a number of years experience of driving and are pulling down the after-dark risk of this young age group. To check this, we can change the age threshold for our young and older age groups and calculate the odds ratio again. If we now call only drivers aged under 20 ‘young’, and anyone aged 20 and over as ‘older’, we can be more sure our young drivers are also new drivers, having a maximum of just two years of driving experience. Table 3 shows the RTC counts using this new threshold of young and older drivers. The associated odds ratio is 0.93 (95% confidence interval = 0.89-0.97) - virtually the same as when using 25 as the age threshold for the young and older age groups.
 <br />
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-kiyi{font-weight:bold;border-color:inherit;text-align:left}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
   <caption><strong>Table 3.</strong> RTC counts 2015-2017 during the Case hour of 18:00-18:59, by age group of driver (under 20 years or 20+ years) and whether RTC occurred in daylight or darkness (defined as before or after sunset).</caption>
   <colgroup>
