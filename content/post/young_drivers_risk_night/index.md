@@ -23,8 +23,6 @@ In this post I provide some quick-and-dirty analysis about night-time risk for n
 
 Comparing the number of RTCs by driver age group against the number of licence holders in those age groups appears to confirm the increased likelihood younger drivers will be involved in an RTC (see <a href="#fig1">Figure 1</a>). It should be noted though that comparing RTCs frequencies against the number of licence holders does not account for possible differences between age groups in the amount of driving they do. It is possible, for example, that younger people drive more than older people, increasing their exposure to risk of an RTC.
 
-<p>A reference to the <a href="#image">image</a>.</p>
-
 
 <figure>
   <img src="RTC_rate_by_age.jpeg" id="fig1" />
@@ -82,7 +80,7 @@ The proposal apparently being considered by the Government refers to driving at 
 
 One approach we have used in past work to try and control for exposure effects whilst examining the effects of light condition (e.g. [this paper looking at the risk of an RTC after-dark at pedestrian crossings](https://www.sciencedirect.com/science/article/pii/S0001457517303202)) is by counting RTCs in a specific hour of the day, e.g. 18:00-18:59. This hour is chosen so that for part of the year it is in daylight, and for the rest of the year it is in darkness. Counting only RTCs in a specific hour attempts to control for other factors related to the time of day that might influence risk of an RTC, therefore isolating the effect of the ambient light condition. Various conditions that influence RTC risk are likely to change with time of day, including the light condition, such as driving behaviours, traffic conditions and volumes, and types of drivers on the roads.
 
-We can compare the odds of an RTC occurring in the Case hour when it is in darkness versus daylight for young drivers and compare this against the same odds for older drivers, to produce an odds ratio. This effectively shows whether the risk of an RTC after-dark for young drivers is greater than for older drivers. I’ve calculated this odds ratio using Equation $\eqref{eq:OR}$. An odds ratio significantly greater than one would indicate greater risk after-dark for young drivers, compared with older drivers.
+We can compare the odds of an RTC occurring in the Case hour when it is in darkness versus daylight for young drivers and compare this against the same odds for older drivers, to produce an odds ratio. This effectively shows whether the risk of an RTC after-dark for young drivers is greater than for older drivers. I’ve calculated this odds ratio using Equation $\eqref{eq:OR}$. In this equation, $YoungRTC_{dark}$ is the count of RTCs involving a young driver in darkness, $YoungRTC_{day}$ is the count of RTCs involving a young driver in daylight, $OldRTC_{dark}$ is the count of RTCs involving an older driver in darkness, and $OldRTC_{day}$ is the count of RTCs involving an older driver in daylight. An odds ratio significantly greater than one would indicate greater risk after-dark for young drivers, compared with older drivers.
 
 
 \begin{equation}
