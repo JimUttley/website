@@ -23,6 +23,17 @@ In this post I provide some quick-and-dirty analysis about night-time risk for n
 
 Comparing the number of RTCs by driver age group against the number of licence holders in those age groups appears to confirm the increased likelihood younger drivers will be involved in an RTC (see Figure 1). It should be noted though that comparing RTCs frequencies against the number of licence holders does not account for possible differences between age groups in the amount of driving they do. It is possible, for example, that younger people drive more than older people, increasing their exposure to risk of an RTC.
 
+
+<figure>
+  <img src="RTC_rate_by_age.jpeg" id="fig1" />
+  <figcaption>
+  Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, <a href="https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data">DfT table D0101</a>
+  </figcaption>
+</figure>
+
+
+
+
 {{< figure src="RTC_rate_by_age.jpeg" title=" Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, [DfT table D0101](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)" numbered="true" lightbox="true" >}}
 <br />
 <br />
