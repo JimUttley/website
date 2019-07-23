@@ -14,6 +14,8 @@ image:
   focal_point: ''
 ---
 
+<bold> TEST HTML text </bold>
+
 The Department for Transport recently announced that they were considering introducing graduated driver licences which potentially could see [new drivers banned from driving at night](https://www.bbc.co.uk/news/uk-49026171). There is strong evidence that new drivers are at greater risk of involvement in a collision than more experienced drivers (e.g. [this review paper by Williams](https://www.sciencedirect.com/science/article/pii/S0022437502000750)), hence consideration of graduated licences. One proposed approach to these graduated licences is to ban new drivers from driving at night. Presumably the logic behind such a proposal is that new drivers are at heightened risk of involvement in a collision at night, particularly compared to other, more experienced drivers.  
 <br />
 
@@ -48,7 +50,7 @@ The proposal apparently being considered by the Government refers to driving at 
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-
+</style>
 <table class="tg">
   <caption><strong>Table 1.</strong> Proportion of RTCs in daylight and dark conditions by age group of driver, for all RTCs between 2015 and 2017.</caption>
   <tr>
@@ -71,7 +73,6 @@ The proposal apparently being considered by the Government refers to driving at 
     <td class="tg-c3ow">24%</td>
   </tr>
 </table>
-</style>
 
 <br />
 
