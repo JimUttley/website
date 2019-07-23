@@ -41,16 +41,6 @@ To look at driving risk by age I have split the age of drivers into two categori
 
 The proposal apparently being considered by the Government refers to driving at night, rather than driving after a certain time of day. I therefore considered the light conditions of the RTC and whether it happened in daylight or after-dark, as reported in the STATS19 record. Table 1 shows that 32% of RTCs involving a young driver happened when it was dark, compared with 24% of RTCs involving an older driver. This appears to confirm an increased likelihood of involvement in an RTC after-dark for young drivers, relative to older drivers. However, it again does not account for exposure levels. If young drivers do drive more frequently and for greater lengths of time when it is dark compared with older drivers, this would partly explain a greater proportion of RTCs occurring in dark conditions. Without data about driving rates at different times of day and by different age groups, it is hard to say whether the larger proportion of after-dark RTCs for young drivers does indeed reflect a greater risk at night. However, there is some evidence that age influences the times at which people choose to drive. For example, a number of studies including [this one by Ball et al (1998)](https://www.ncbi.nlm.nih.gov/pubmed/9663290) suggest older drivers self-regulate their driving behaviour and restrict the amount they drive at night. Such behaviour could reduce exposure to RTCs after-dark for older drivers.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-kiyi{font-weight:bold;border-color:inherit;text-align:left}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <caption><strong>Table 1.</strong> Proportion of RTCs in daylight and dark conditions by age group of driver, for all RTCs between 2015 and 2017.</caption>
   <tr>
