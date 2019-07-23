@@ -23,7 +23,7 @@ In this post I provide some quick-and-dirty analysis about night-time risk for n
 
 Comparing the number of RTCs by driver age group against the number of licence holders in those age groups appears to confirm the increased likelihood younger drivers will be involved in an RTC (see Figure 1). It should be noted though that comparing RTCs frequencies against the number of licence holders does not account for possible differences between age groups in the amount of driving they do. It is possible, for example, that younger people drive more than older people, increasing their exposure to risk of an RTC.
 
-{{< figure src="RTC_rate_by_age.jpg" title="Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, [DfT table D0101](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data))" numbered="true" >}}
+{{< figure src="RTC_rate_by_age.jpeg" title="Annual RTCs per 1,000 licence holders, by age group of driver involved in RTC. Annual RTC values based on average between 2015 and 2017. Licence holder numbers from November 2017, [DfT table D0101](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data))" numbered="true" >}}
 <br />
 <br />
 
@@ -31,7 +31,7 @@ Comparing the number of RTCs by driver age group against the number of licence h
 
 To look at driving risk by age I have split the age of drivers into two categories - younger drivers (aged under 25), who also represent new drivers, and older drivers (aged 25+). Figure 2 shows the temporal distribution of RTCs for young and older drivers across a 24 hour day. The RTC hourly frequencies have been calculated as a proportion of the maximum hourly frequency, which for both age groups is 17:00-17:59. The plot shows an RTC involving a young driver is more likely to happen later at night or early morning, compared with those involving an older driver. On the face of it, this seems to suggest young drivers are at greater risk when driving in the late hours compared with older drivers. 
 
-{{< figure src="Hourly_RTC_by_age_groups.jpg" title="Hourly counts of RTCs by age group of driver, as a proportion of the maximum hourly count." numbered="true" >}}
+{{< figure src="Hourly_RTC_by_age_groups.jpeg" title="Hourly counts of RTCs by age group of driver, as a proportion of the maximum hourly count." numbered="true" >}}
 <br />
 <br />
 
@@ -143,7 +143,7 @@ This odds ratio of 0.94 suggests that rather than the risk after-dark for young 
 
 In this analysis I have used young drivers as a proxy definition for new drivers, and have defined young drivers as being aged 24 or under. Using this definition, young drivers would have a maximum of 7 years driving experience, if they were aged 24 and had passed their test at 17. Perhaps 7 years of driving experience does not qualify someone as a ‘new driver’, and a graduated licence scheme is likely to only apply for the first one or two years after someone initially passes their test. However it is still reasonable to assume young drivers are also relatively new drivers - see Figure 3. This shows the number of new licences issued in 2017/18 by age of the new driver, as a cumulative percentage. Two thirds of people issued with a new licence were aged 24 or under, which suggests dichotomising the data into young and older driver groups as I have done is a reasonable way of capturing new, inexperienced drivers.
 
-{{< figure src="cumulative_new_licences_by_age.jpg" title="Cumulative proportion of new driving licences issued in 2017/18, by age of recipient. [Data from Table DRT0203](https://www.gov.uk/government/statistical-data-sets/driving-test-statistics-drt)." numbered="true" >}}
+{{< figure src="cumulative_new_licences_by_age.jpeg" title="Cumulative proportion of new driving licences issued in 2017/18, by age of recipient. [Data from Table DRT0203](https://www.gov.uk/government/statistical-data-sets/driving-test-statistics-drt)." numbered="true" >}}
 <br />
 
 Ok, but let’s assume the odds ratio we calculated above is being confounded by drivers in their early and mid-twenties, who fall into my ‘young’ age group of drivers but who may have a number of years experience of driving and are pulling down the after-dark risk of this young age group. To check this, we can change the age threshold for our young and older age groups and calculate the odds ratio again. If we now call only drivers aged under 20 ‘young’, and anyone aged 20 and over as ‘older’, we can be more sure our young drivers are also new drivers, having a maximum of just two years of driving experience. Table 3 shows the RTC counts using this new threshold of young and older drivers. The associated odds ratio is 0.93 (95% confidence interval = 0.89-0.97) - virtually the same as when using 25 as the age threshold for the young and older age groups.
