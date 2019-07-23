@@ -139,9 +139,10 @@ In this analysis I have used young drivers as a proxy definition for new drivers
 <figure>
   <img src="cumulative_new_licences_by_age.jpeg" id="fig3" />
   <figcaption>
-    <font size=2><strong>Figure 3.</strong> Cumulative proportion of new driving licences issued in 2017/18, by age of recipient. <a href="https://www.gov.uk/government/statistical-data-sets/driving-test-statistics-drt">Data from Table DRT0203</a></font>
+    <font size=2><strong>Figure 2.</strong> Cumulative proportion of new driving licences issued in 2017/18, by age of recipient. Data from Table DRT0203.</font>
   </figcaption>
 </figure>
+
 <br />
 
 Ok, but let’s assume the odds ratio we calculated above is being confounded by drivers in their early and mid-twenties, who fall into my ‘young’ age group of drivers but who may have a number of years experience of driving and are pulling down the after-dark risk of this young age group. To check this, we can change the age threshold for our young and older age groups and calculate the odds ratio again. If we now call only drivers aged under 20 ‘young’, and anyone aged 20 and over as ‘older’, we can be more sure our young drivers are also new drivers, having a maximum of just two years of driving experience. Table 3 shows the RTC counts using this new threshold of young and older drivers. The associated odds ratio is 0.93 (95% confidence interval = 0.89-0.97) - virtually the same as when using 25 as the age threshold for the young and older age groups.
