@@ -186,3 +186,5 @@ What conclusion to draw from this analysis? For me, I need more persuading that 
 When you attempt to account for exposure and other effects of the time of day, by only looking at RTCs in a specific ‘Case’ hour of the day and comparing daylight and after-dark ambient light conditions, a different picture emerges. The calculated odds ratio is actually less than one, suggesting if anything the risk after-dark for young drivers is lower than it is for older drivers. Regarding banning new drivers from driving at night as part of a graduated driving licence - the evidence needs closer examination before any such proposal be enacted.
 
 
+
+
