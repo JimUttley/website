@@ -1,7 +1,7 @@
 ---
 title: The science of street lights - What makes people feel safe at night
 author: Jim Uttley
-date: '2018-09-28'
+date: '28-09-2018'
 slug: science-of-street-lighting
 summary: " "
 categories: []
