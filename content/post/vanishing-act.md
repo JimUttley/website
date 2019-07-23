@@ -1,7 +1,7 @@
 ---
 title: Vanishing act - why pedestrians and cyclists disappear when it starts getting dark
 author: Jim Uttley
-publishdate: '2017-10-27'
+date: '2017-10-27'
 slug: vanishing-act
 summary: " "
 categories: []
