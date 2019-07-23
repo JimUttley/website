@@ -14,8 +14,6 @@ image:
   focal_point: ''
 ---
 
-<strong> TEST HTML TEST </strong>
-
 The Department for Transport recently announced that they were considering introducing graduated driver licences which potentially could see [new drivers banned from driving at night](https://www.bbc.co.uk/news/uk-49026171). There is strong evidence that new drivers are at greater risk of involvement in a collision than more experienced drivers (e.g. [this review paper by Williams](https://www.sciencedirect.com/science/article/pii/S0022437502000750)), hence consideration of graduated licences. One proposed approach to these graduated licences is to ban new drivers from driving at night. Presumably the logic behind such a proposal is that new drivers are at heightened risk of involvement in a collision at night, particularly compared to other, more experienced drivers.  
 <br />
 
