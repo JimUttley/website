@@ -1,5 +1,5 @@
 ---
-title: "ARE NEW (YOUNG) DRIVERS AT GREATER RISK AT NIGHT THAN OTHER DRIVERS?"
+title: "Are new (young) drivers at greater risk at night than other drivers?"
 author: "Jim Uttley"
 date: '23-07-2019'
 output: html_document
