@@ -139,7 +139,7 @@ In this analysis I have used young drivers as a proxy definition for new drivers
 <figure>
   <img src="cumulative_new_licences_by_age.jpeg" id="fig3" />
   <figcaption>
-    <font size=2><strong>Figure 2.</strong> Cumulative proportion of new driving licences issued in 2017/18, by age of recipient. Data from Table DRT0203.</font>
+    <font size=2><strong>Figure 2.</strong> Cumulative proportion of new driving licences issued in 2017/18, by age of recipient.<a href="https://www.gov.uk/government/statistical-data-sets/driving-test-statistics-drt"> Data from Table DRT0203</a>.</font>
   </figcaption>
 </figure>
 
